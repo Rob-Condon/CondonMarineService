@@ -10,7 +10,7 @@
   "dependencies": {
     "@vimeo/player": "^2.11.0",
     "ajax": "0.0.4",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.4.3",
